@@ -9,4 +9,4 @@ I'm currently pursuing an MSc in Data Analytics at Berlin School of Business and
 Proficient in Python, SQL, statistical analysis, data visualization, and more, I'm equipped to handle the intricacies of modern data exploration.
 Beyond academia, I'm passionate about sharing insights and fostering growth, whether through hackathons or impactful workshops.
 
-Reach me at LinkedIn https://www.linkedin.com/in/vasilis-atsalas-6179b828a/
+Reach me at LinkedIn https://www.linkedin.com/in/atsalas/
